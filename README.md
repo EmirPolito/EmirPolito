@@ -6,6 +6,8 @@
 </div>
 
 
+
+
 <div align="center">
   <a href="mailto:tucorreo@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -17,6 +19,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
+<br>
 
 
 ## Sobre mí
@@ -28,6 +31,7 @@
 - 🌱 Aprendiendo constantemente sobre arquitectura web y tecnologías emergentes
 - 🤔 Actualmente estoy disponible para: <b>Una pasantía</b> o una nueva <b>oportunidad laboral</b>, este es <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MI CURRÍCULUM.</a>
 <br>
+
 
 <h2 >Tecnologías conocidas</h2>
 <p align="left">
@@ -126,10 +130,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
 
 
 ## 👤 Usuario
 
-Credit: [EmirPolito](https://github.com/EmirPolito)
+Perfil: [EmirPolito](https://github.com/EmirPolito)
 
 Ultima edición: 26/03/2026
+<br>
