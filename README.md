@@ -2,10 +2,23 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Emir Polito</a> 👋</h1>
 </div>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+<hr>
+<p align="center">
+   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br>
+</p>
+------
+Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
+
+Last Edited on: 28/01/2023
+
+
 
 ## Sobre mi
 
