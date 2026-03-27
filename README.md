@@ -21,11 +21,10 @@
 
 ## Sobre mí
 - 🎓 Técnico en Tecnologías de la Información (TI)
-- 🎨 Enfocado en UI/UX limpio, moderno y responsivo
-- ⚛️ Desarrollo experiencias interactivas con modelos 3D y RA
-- 🚀 Construyendo proyectos reales para portafolio y aprendizaje constante
-- 🧪 Colaborador de una plataforma educativa con Realidad Aumentada para química
-- 🌱 Aprendiendo constantemente sobre arquitectura web y tecnologías emergentes
+- ⚛️ He colaborado en experiencias web interactivas con <strong>modelos 3D y Realidad Aumentada</strong>
+- 🎨 Enfocado en <strong>UI/UX moderno, limpio y altamente visual</strong>, priorizando la experiencia del usuario
+- 🚀 Trabajo en proyectos reales orientados a portafolio, combinando <strong>diseño, lógica y experiencia</strong>
+- 🌱 En constante aprendizaje sobre <strong>tecnologías modernas, rendimiento y sistemas interactivos</strong>
 <br>
 
 
@@ -121,30 +120,6 @@ Permite al usuario explorar, navegar y descubrir contenido en un entorno digital
   </div>                                                                                    
 </td>
 
-
-
-<td width="50%">
-<h3 align="center">SIS-BIBLIO</h3>
-  
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android">
-</a>
-  
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-
-<p>
-Plataforma para la gestión eficiente de bibliotecas, que integra un <strong>Módulo de Seguridad Web</strong> avanzado. 
-Desarrollada con <strong>PHP puro</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript (Vanilla)</strong> y <strong>MySQL (PDO)</strong>, 
-aplica <strong>Clean Code</strong> y <strong>principios SOLID</strong> para garantizar una <strong>seguridad robusta</strong> en cada interacción.
-</p>
-
-</div>                                                                                    
-</td>  
-
 </table>                                                                                 
 </div>
 <br>
@@ -154,9 +129,9 @@ aplica <strong>Clean Code</strong> y <strong>principios SOLID</strong> para gara
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/EmirPolito">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmirPolito&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirPolito&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br>
