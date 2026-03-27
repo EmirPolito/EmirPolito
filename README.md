@@ -29,8 +29,6 @@
 - 🚀 Construyendo proyectos reales para portafolio y aprendizaje constante
 - 🧪 Colaborador de una plataforma educativa con Realidad Aumentada para química
 - 🌱 Aprendiendo constantemente sobre arquitectura web y tecnologías emergentes
-- 🤔 Actualmente estoy disponible para: <b>Una pasantía</b> o una nueva <b>oportunidad laboral</b>, este es <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MI CURRÍCULUM.</a>
-<br>
 
 
 <h2 >Tecnologías conocidas</h2>
