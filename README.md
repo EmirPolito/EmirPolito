@@ -14,9 +14,7 @@
 <br>
 </p>
 ------
-Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
 
-Last Edited on: 28/01/2023
 
 
 
