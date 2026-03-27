@@ -1,9 +1,7 @@
-<div align="center">
   <h1 align="center">
     Hola, soy <a href="https://aristi.dev">Emir Polito</a> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
-</div>
 
 
 
@@ -29,6 +27,7 @@
 - 🚀 Construyendo proyectos reales para portafolio y aprendizaje constante
 - 🧪 Colaborador de una plataforma educativa con Realidad Aumentada para química
 - 🌱 Aprendiendo constantemente sobre arquitectura web y tecnologías emergentes
+<br>
 
 
 <h2 >Tecnologías conocidas</h2>
