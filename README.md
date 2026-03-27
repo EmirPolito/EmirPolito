@@ -42,26 +42,26 @@
 <tr>
   
 <td width="50%">
-<h3 align="center">SIS-BIBLIO</h3>
+<h3 align="center">RALQ-4</h3>
   
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android">
+<a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
+  <img src="https://github.com/user-attachments/assets/3a812062-6e7c-4ab6-98b8-fd33d02eb491" width="400" alt="RALQ-4 Preview">
 </a>
   
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 
 <p>
-Plataforma para la gestión eficiente de bibliotecas, que integra un <strong>Módulo de Seguridad Web</strong> avanzado. 
-Desarrollada con <strong>PHP puro</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript (Vanilla)</strong> y <strong>MySQL (PDO)</strong>, 
-aplica <strong>Clean Code</strong> y <strong>principios SOLID</strong> para garantizar una <strong>seguridad robusta</strong> en cada interacción.
+Plataforma educativa interactiva enfocada en la <strong>visualización de instrumentos de laboratorio</strong> y <strong>estructuras moleculares en 3D mediante Realidad Aumentada</strong>. 
+Permite a los estudiantes explorar, comprender modelos en un entorno virtual, facilitando el aprendizaje práctico sin necesidad de un laboratorio físico.
 </p>
 
 </div>                                                                                    
-</td> 
+</td>
 
 
 <td width="50%">
