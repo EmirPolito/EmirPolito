@@ -24,7 +24,7 @@
 - 🤝 He colaborado en experiencias web interactivas con <strong>modelos 3D y Realidad Aumentada</strong>
 - 🎨 Enfocado en <strong>UI/UX moderno, limpio y altamente visual</strong>, priorizando la experiencia del usuario
 - 🚀 Trabajo en proyectos reales orientados a portafolio, combinando <strong>diseño, lógica y experiencia</strong>
-- 🌱 En constante aprendizaje sobre <strong>tecnologías modernas, rendimiento y sistemas interactivos</strong>
+- 📖 En constante aprendizaje sobre <strong>tecnologías modernas, rendimiento y sistemas interactivos</strong>
 <br>
 
 
