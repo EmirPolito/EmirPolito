@@ -8,10 +8,10 @@
   <a href="mailto:emirpolitog@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/emir-polito-g/">
+  <a href="https://www.linkedin.com/in/emir-polito-g/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/emirppolito/">
+  <a href="https://www.instagram.com/emirppolito/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
