@@ -4,16 +4,14 @@
   </h1>
 
 
-
-
 <div align="center">
-  <a href="mailto:tucorreo@gmail.com">
+  <a href="mailto:emirpolitog@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/tuusuario">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/emir-polito-g/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/tuusuario">
+  <a href="https://instagram.com/https://www.instagram.com/emirppolito/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
