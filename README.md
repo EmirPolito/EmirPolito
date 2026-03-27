@@ -110,10 +110,9 @@ Permite al usuario explorar, navegar y descubrir contenido en un entorno digital
         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-
-   <p>
-      Plataforma para la gestión eficiente de bibliotecas, que integra un <strong>Módulo de Seguridad Web</strong> avanzado. 
-      Desarrollada con <strong>PHP puro</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript (Vanilla)</strong> y <strong>MySQL (PDO)</strong>, 
+ <p>
+    Plataforma para la gestión eficiente de bibliotecas, que integra un <strong>Módulo de Seguridad Web</strong> avanzado. 
+   Desarrollada con <strong>PHP puro</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript (Vanilla)</strong> y <strong>MySQL (PDO)</strong>, 
       aplica <strong>Clean Code</strong> y <strong>principios SOLID</strong> para garantizar una <strong>seguridad robusta</strong> en cada interacción.
   </p>
 
@@ -124,17 +123,6 @@ Permite al usuario explorar, navegar y descubrir contenido en un entorno digital
 </div>
 <br>
 
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/EmirPolito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmirPolito&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirPolito&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<br>
 
 
 ## 👤 Usuario
