@@ -125,9 +125,7 @@ Permite al usuario explorar, navegar y descubrir contenido en un entorno digital
 
 
 
-## 👤 Usuario
 
-Perfil: [EmirPolito](https://github.com/EmirPolito)
 
 Ultima edición: 26/03/2026
 <br>
