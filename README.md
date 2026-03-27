@@ -4,6 +4,7 @@
   </h1>
 
 
+
 <div align="center">
   <a href="mailto:emirpolitog@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -39,21 +40,28 @@
 ## Algunos proyectos
 <table>
 <tr>
+  
 <td width="50%">
-<h3 align="center">Titulo</h3>
+<h3 align="center">SIS-BIBLIO</h3>
+  
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android">
+</a>
+  
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+
+<p>
+Plataforma para la gestión eficiente de bibliotecas, que integra un <strong>Módulo de Seguridad Web</strong> avanzado. 
+Desarrollada con <strong>PHP puro</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript (Vanilla)</strong> y <strong>MySQL (PDO)</strong>, 
+aplica <strong>Clean Code</strong> y <strong>principios SOLID</strong> para garantizar una <strong>seguridad robusta</strong> en cada interacción.
+</p>
+
 </div>                                                                                    
-</td>
+</td> 
 
 
 <td width="50%">
@@ -79,38 +87,62 @@
 
 <table>
 <tr>
+ 
 <td width="50%">
-<h3 align="center">Titulo</h3>
+  <h3 align="center">SIS-BIBLIO</h3>
+
+  <div align="center">
+    <!-- CONTENEDOR tipo card -->
+    <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
+      <div style="background-color: #0d1117; padding: 15px; border-radius: 16px; display: inline-block;">
+        <img 
+          src="https://github.com/user-attachments/assets/cab2a8f5-8c01-4460-b74e-7780d61b00df" 
+          width="400" 
+          alt="SIS-BIBLIO"
+          style="border-radius: 8px;"
+        />
+      </div>
+    </a>
+
+  <p>
+      <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+
+   <p>
+      Plataforma para la gestión eficiente de bibliotecas, que integra un <strong>Módulo de Seguridad Web</strong> avanzado. 
+      Desarrollada con <strong>PHP puro</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript (Vanilla)</strong> y <strong>MySQL (PDO)</strong>, 
+      aplica <strong>Clean Code</strong> y <strong>principios SOLID</strong> para garantizar una <strong>seguridad robusta</strong> en cada interacción.
+  </p>
+
+  </div>                                                                                    
+</td>
+
+
+
+<td width="50%">
+<h3 align="center">SIS-BIBLIO</h3>
+  
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android">
+</a>
+  
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>                                                                                    
-</td>       
 
-
-<td width="50%">
-<h3 align="center">Titulo</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
+Plataforma para la gestión eficiente de bibliotecas, que integra un <strong>Módulo de Seguridad Web</strong> avanzado. 
+Desarrollada con <strong>PHP puro</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript (Vanilla)</strong> y <strong>MySQL (PDO)</strong>, 
+aplica <strong>Clean Code</strong> y <strong>principios SOLID</strong> para garantizar una <strong>seguridad robusta</strong> en cada interacción.
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>                                                                                     
+
+</div>                                                                                    
 </td>  
+
 </table>                                                                                 
 </div>
 <br>
