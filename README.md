@@ -43,16 +43,22 @@
 <h3 align="center">RALQ-4</h3>
 <div align="center">
 <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
-  <img src="https://github.com/user-attachments/assets/3a812062-6e7c-4ab6-98b8-fd33d02eb491" width="400" alt="RALQ-4 Preview">
+  <img src="https://github.com/user-attachments/assets/3a812062-6e7c-4ab6-98b8-fd33d02eb491" width="450" alt="RALQ-4 Preview">
 </a>
+<br>
+<br>
+    
+<p>
+Plataforma educativa interactiva enfocada en la <strong>visualización de instrumentos de laboratorio de química</strong> y <strong>estructuras moleculares en 3D mediante Realidad Aumentada</strong>. 
+Permite a los estudiantes explorar y comprender modelos en un entorno virtual, facilitando el aprendizaje práctico sin necesidad de un laboratorio físico.
+</p>
+
+
 <p>
 <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-</p>
-<p>
-Plataforma educativa interactiva enfocada en la <strong>visualización de instrumentos de laboratorio</strong> y <strong>estructuras moleculares en 3D mediante Realidad Aumentada</strong>. 
-Permite a los estudiantes explorar, comprender modelos en un entorno virtual, facilitando el aprendizaje práctico sin necesidad de un laboratorio físico.
+    
 </p>
 </div>                                                                                    
 </td>
@@ -64,18 +70,21 @@ Permite a los estudiantes explorar, comprender modelos en un entorno virtual, fa
 <h3 align="center">Arcoms-1</h3>
 <div align="center">                                       
 <a href="https://github.com/EmirPolito/Arcoms-1" target="_blank">
-  <img src="https://github.com/user-attachments/assets/176ce5b7-0e10-4fc0-93db-204600b658d5" width="400" alt="Arcoms-1 Preview">
+  <img src="https://github.com/user-attachments/assets/176ce5b7-0e10-4fc0-93db-204600b658d5" width="450" alt="Arcoms-1 Preview">
 </a>
-<br>
+<br>    
+<br>    
+
+<p>
+Experiencia web interactiva enfocada en una <strong>interfaz futurista e inmersiva</strong> y <strong>entornos visuales dinámicos con animaciones avanzadas</strong>. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, fluida y visualmente impactante desde el primer momento.
+</p>
+
 <p>
 <a href="https://github.com/EmirPolito/Arcoms-1" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>
-Experiencia web interactiva enfocada en una <strong>interfaz futurista e inmersiva</strong> y <strong>entornos visuales dinámicos con animaciones avanzadas</strong>. 
-Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, fluida y visualmente impactante desde el primer momento.
-</p>
+
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -92,21 +101,23 @@ Permite al usuario explorar, navegar y descubrir contenido en un entorno digital
       <div style="background-color: #0d1117; padding: 15px; border-radius: 16px; display: inline-block;">
         <img 
           src="https://github.com/user-attachments/assets/cab2a8f5-8c01-4460-b74e-7780d61b00df" 
-          width="400" 
+          width="450" 
           alt="SIS-BIBLIO"
           style="border-radius: 8px;"
         />
       </div>
     </a>
+<br>
+    
+<p>
+Sistema de gestión bibliotecaria completamente funcional. Integra autenticación segura, control de roles, protección contra ataques web y un dashboard interactivo para la administración de libros, préstamos y usuarios en tiempo real, optimizando la organización y gestión del sistema.
+</p>
 
   <p>
       <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-<p>
-Sistema de gestión bibliotecaria completamente funcional. Integra autenticación segura, control de roles, protección contra ataques web y un dashboard interactivo para la administración de libros, préstamos y usuarios en tiempo real, optimizando la organización y gestión del sistema.
-</p>
   </div>                                                                                    
 </td>
 
@@ -116,17 +127,23 @@ Sistema de gestión bibliotecaria completamente funcional. Integra autenticació
 <h3 align="center">RALQ-2</h3>
 <div align="center">
 <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
-  <img src="https://github.com/user-attachments/assets/89ce32b6-9085-4331-8769-7562b3ca619c" width="400" alt="RALQ-2 Preview">
+  <img src="https://github.com/user-attachments/assets/89ce32b6-9085-4331-8769-7562b3ca619c" width="450" alt="RALQ-2 Preview">
 </a>
+    
+<br>
+<br>
+
+<p>
+Segunda versión del proyecto, desarrollada con <strong>PHP</strong> y completamente finalizada. 
+Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante Realidad Aumentada, mejorando la experiencia de aprendizaje interactivo.
+</p>
+
 <p>
 <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>
-Segunda versión del proyecto, desarrollada con <strong>PHP</strong> y completamente finalizada. 
-Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante Realidad Aumentada, mejorando la experiencia de aprendizaje interactivo.
-</p>
+
 </div>                                                                                    
 </td>
 
