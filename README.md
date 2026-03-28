@@ -21,8 +21,8 @@
 - 🎓 Técnico en Tecnologías de la Información en el area de <strong>Desarrollo Software</strong>
 - 🤝 He colaborado en proyectos de experiencias web interactivas con <strong>modelos 3D y Realidad Aumentada
 - 🎨 Enfocado en <strong>UI/UX moderno, limpio y altamente visual</strong>, priorizando la experiencia del usuario
-- 🚀 Trabajo en proyectos reales orientados a portafolio, combinando <strong>diseño, lógica y experiencia</strong>
-- 📖 En constante aprendizaje sobre <strong>tecnologías modernas y sistemas interactivos</strong>
+- 🚀 Trabajo en proyectos reales orientados a portafolio, combinando diseño, lógica y experiencia
+- 📖 En constante aprendizaje sobre tecnologías modernas y sistemas interactivos
 <br>
 
 
