@@ -79,7 +79,7 @@
       <br>  
     
    <p align="left">
-      Experiencia web interactiva enfocada en una <strong>interfaz futurista e inmersiva</strong> y <strong>entornos visuales dinámicos con animaciones avanzadas</strong>. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, fluida y visualmente impactante desde el primer momento.
+      Experiencia web interactiva enfocada en una <strong>interfaz futurista e inmersiva</strong> y <strong>entornos visuales dinámicos con animaciones avanzadas</strong>. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, fluida y visualmente impactante al entrar.
       </p>
       </div>
     </div>
