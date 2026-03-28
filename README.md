@@ -137,6 +137,6 @@ Enfocada en la visualización de instrumentos de laboratorio y estructuras molec
 
 
 
-<p align="center">
+<p>
   Ultima edición: 27/03/2026
 </p>
