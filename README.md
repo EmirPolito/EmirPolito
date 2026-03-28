@@ -3,10 +3,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
 
-<p align="center">
-  Puedes contactarme o encontrarme en las siguientes plataformas
-</p>
-
 <div align="center">
   <a href="mailto:emirpolitog@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -41,30 +37,28 @@
 ## Algunos proyectos
 <table>
 <tr>
-  
+
+<!-- 1 RALQ-4 -->
 <td width="50%">
 <h3 align="center">RALQ-4</h3>
-  
 <div align="center">
 <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
   <img src="https://github.com/user-attachments/assets/3a812062-6e7c-4ab6-98b8-fd33d02eb491" width="400" alt="RALQ-4 Preview">
 </a>
-  
 <p>
 <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-
 <p>
 Plataforma educativa interactiva enfocada en la <strong>visualización de instrumentos de laboratorio</strong> y <strong>estructuras moleculares en 3D mediante Realidad Aumentada</strong>. 
 Permite a los estudiantes explorar, comprender modelos en un entorno virtual, facilitando el aprendizaje práctico sin necesidad de un laboratorio físico.
 </p>
-
 </div>                                                                                    
 </td>
 
 
+<!-- 3 Arcoms-1 -->
 <td width="50%">
 <br>
 <h3 align="center">Arcoms-1</h3>
@@ -89,13 +83,11 @@ Permite al usuario explorar, navegar y descubrir contenido en un entorno digital
 
 
 <table>
+<!-- 3 SIS BIBLIO -->
 <tr>
- 
 <td width="50%">
   <h3 align="center">SIS-BIBLIO</h3>
-
   <div align="center">
-    <!-- CONTENEDOR tipo card -->
     <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
       <div style="background-color: #0d1117; padding: 15px; border-radius: 16px; display: inline-block;">
         <img 
@@ -115,29 +107,26 @@ Permite al usuario explorar, navegar y descubrir contenido en un entorno digital
 <p>
 Sistema de gestión bibliotecaria completamente funcional. Integra autenticación segura, control de roles, protección contra ataques web y un dashboard interactivo para la administración de libros, préstamos y usuarios en tiempo real, optimizando la organización y gestión del sistema.
 </p>
-
   </div>                                                                                    
 </td>
 
+
+<!-- 4 SIS RALQ-2 -->
 <td width="50%">
 <h3 align="center">RALQ-2</h3>
-  
 <div align="center">
 <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
   <img src="https://github.com/user-attachments/assets/89ce32b6-9085-4331-8769-7562b3ca619c" width="400" alt="RALQ-2 Preview">
 </a>
-  
 <p>
 <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-
 <p>
 Segunda versión del proyecto, desarrollada con <strong>PHP</strong> y completamente finalizada. 
 Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante Realidad Aumentada, mejorando la experiencia de aprendizaje interactivo.
 </p>
-
 </div>                                                                                    
 </td>
 
