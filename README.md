@@ -1,9 +1,11 @@
   <h1 align="center">
-    Hola, soy <a href="https://aristi.dev">Emir Polito</a> 
+    Hola, soy <a href="https://github.com/EmirPolito">Emir Polito</a> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
 
-
+<p align="center">
+  Puedes contactarme o encontrarme en las siguientes plataformas
+</p>
 
 <div align="center">
   <a href="mailto:emirpolitog@gmail.com">
@@ -110,14 +112,35 @@ Permite al usuario explorar, navegar y descubrir contenido en un entorno digital
         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
- <p>
-    Plataforma para la gestión eficiente de bibliotecas, que integra un <strong>Módulo de Seguridad Web</strong> avanzado. 
-   Desarrollada con <strong>PHP puro</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript (Vanilla)</strong> y <strong>MySQL (PDO)</strong>, 
-      aplica <strong>Clean Code</strong> y <strong>principios SOLID</strong> para garantizar una <strong>seguridad robusta</strong> en cada interacción.
-  </p>
+<p>
+Sistema de gestión bibliotecaria completamente funcional. Integra autenticación segura, control de roles, protección contra ataques web y un dashboard interactivo para la administración de libros, préstamos y usuarios en tiempo real, optimizando la organización y gestión del sistema.
+</p>
 
   </div>                                                                                    
 </td>
+
+<td width="50%">
+<h3 align="center">RALQ-2</h3>
+  
+<div align="center">
+<a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
+  <img src="https://github.com/user-attachments/assets/89ce32b6-9085-4331-8769-7562b3ca619c" width="400" alt="RALQ-2 Preview">
+</a>
+  
+<p>
+<a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+<p>
+Segunda versión del proyecto, desarrollada con <strong>PHP</strong> y completamente finalizada. 
+Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante Realidad Aumentada, mejorando la experiencia de aprendizaje interactivo.
+</p>
+
+</div>                                                                                    
+</td>
+
 
 </table>                                                                                 
 </div>
