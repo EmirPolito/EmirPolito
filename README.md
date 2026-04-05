@@ -28,7 +28,7 @@
 
 <h2 >Tecnologías conocidas</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,react,nextjs,mysql,mongodb,git,github,npm,pnpm,nodejs,vscode,figma,blender,vercel,replit,discord&perline=20" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,react,nextjs,mysql,mongodb,git,github,npm,pnpm,nodejs,powershell,vscode,figma,blender,vercel,replit,discord,devto&perline=18" />
 </p>
 <br>
 
