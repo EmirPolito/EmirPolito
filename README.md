@@ -29,7 +29,7 @@
 <h2 >Tecnologías conocidas</h2>
 <p align="left">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,react,nextjs,mysql,mongodb,git,github,npm,pnpm,nodejs,powershell,vscode,figma,blender,vercel,replit,discord,devto&perline=8&size=75" 
+    src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,react,nextjs,mysql,mongodb,git,github,npm,pnpm,nodejs,powershell,vscode,figma,blender,vercel,replit,discord,devto&perline=30&size=48" 
   />
 </p>
 <br>
