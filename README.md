@@ -18,11 +18,14 @@
 
 
 ## Sobre mí
-- 🎓 **Técnico en Tecnologías de la Información** en el área de Desarrollo de Software  
-- 🤝 He colaborado en proyectos de **experiencias web interactivas con modelos 3D y Realidad Aumentada**  
-- 🎨 Enfocado en **UI/UX moderno, limpio y altamente visual**, priorizando la experiencia del usuario  
-- 🚀 Trabajo en **proyectos reales orientados a portafolio**, combinando diseño, lógica y experiencia  
-- 📖 En **constante aprendizaje** sobre tecnologías modernas y sistemas interactivos
+>Desarrollador de experiencias digitales interactivas, combinando diseño y funcionalidad de manera creativa. Técnico en TI, con trabajo reconocido en espacios académicos y presentado en eventos de innovación como Infomatrix, aplicando tecnología a problemas reales.
+>
+
+- 🎓 Técnico en Tecnologías de la Información – área de desarrollo software.
+- 🤝 Experiencia en proyectos web dinámicos e interactivos con elementos 3D.
+- 🎨 Especializado en UI/UX limpio y funcional, priorizando la experiencia del usuario.
+- 🚀 Desarrollo de proyectos reales orientados a portafolio, combinando diseño y lógica.
+- 📖 Aprendizaje constante en tecnologías modernas y sistemas digitales interactivos.
 <br>
 
 
