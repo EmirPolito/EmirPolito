@@ -18,7 +18,7 @@
 
 
 ## Sobre mí
->Desarrollador de experiencias digitales interactivas, combinando diseño y funcionalidad de manera creativa. Técnico en TI, con trabajo reconocido en espacios académicos y presentado en eventos de innovación como Infomatrix, aplicando tecnología a problemas reales.
+> Desarrollador de experiencias digitales interactivas, enfocado en combinar diseño y funcionalidad de forma creativa. Con proyectos presentados en eventos de innovación como Infomatrix y en espacios académicos universitarios, aplicando tecnología a problemas reales.
 >
 
 - 🎓 Técnico en Tecnologías de la Información – área de desarrollo software.
