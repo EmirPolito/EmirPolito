@@ -180,18 +180,9 @@
 
 <h2 align="center">Estadísticas del perfil</h2>
 <div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmirPolito&theme=github_dark&hide_border=true" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmirPolito&theme=github_dark&hide_border=true" alt="Estadísticas de EmirPolito" />
 </div>
 
 <br>
 <br>
 <br>
-
-
-
-
-<p align="center">
-  Ultima edición: 08/04/2026
-</p>
