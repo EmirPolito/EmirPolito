@@ -68,7 +68,7 @@
 <div align="center">
       <p>
       <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
-      <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">  
       </a>
       </p>
     </div>
@@ -96,7 +96,7 @@
   <div align="center">
       <p>
       <a href="https://github.com/EmirPolito/Arcoms-1" target="_blank">
-      <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
       </a>
       </p>
     </div>
@@ -135,7 +135,7 @@
  <div align="center">
       <p>
         <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-FFE066?style=for-the-badge&logo=github&logoColor=black">
         </a>
       </p>
     </div>
@@ -165,7 +165,7 @@
 <div align="center">
       <p>
       <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
-      <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-FFE066?style=for-the-badge&logo=github&logoColor=black">
       </a>
       </p>
     </div>
