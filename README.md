@@ -40,112 +40,102 @@
 <br>
 
 ## Algunos proyectos
-<table width="100%">
-<tr>
 
-<td width="50%" valign="top">
-  <div style="background-color: #0d1117; padding: 20px; border-radius: 16px; margin: 10px; display: flex; flex-direction: column; height: 100%; justify-content: space-between;">
-    <div>
-      <h3 align="center">RALQ-4</h3>
-      <div align="center">
-        <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
-          <img src="https://github.com/user-attachments/assets/3a812062-6e7c-4ab6-98b8-fd33d02eb491" width="100%" alt="RALQ-4 Preview" style="border-radius: 8px;">
-        </a>
-      </div>
-      <br>
-      <div style="min-height: 160px; display: flex; align-items: center;">
-        <p align="left" style="line-height: 1.5; text-align: justify; margin: 0;">
-          Plataforma educativa enfocada en la <strong>visualización de instrumentos de laboratorio de química</strong> y <strong>moléculas en 3D mediante Realidad Aumentada</strong>. 
-          Permite a los estudiantes explorar y comprender modelos en un entorno virtual, facilitando el aprendizaje práctico sin necesidad de un laboratorio físico.
-        </p>
-      </div>
-    </div>
-    <div align="center" style="margin-top: 20px;">
+<!-- TABLA DE PROYECTOS 1 Y 2 -->
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <!-- Títulos -->
+    <td width="50%"><h3 align="center">RALQ-4</h3></td>
+    <td width="50%"><h3 align="center">Arcoms-1</h3></td>
+  </tr>
+  <tr>
+    <!-- Imágenes (Forzamos la misma altura para que no empujen el texto) -->
+    <td align="center">
+      <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
+        <img src="https://github.com/user-attachments/assets/3a812062-6e7c-4ab6-98b8-fd33d02eb491" height="220px" style="border-radius: 12px; object-fit: cover;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EmirPolito/Arcoms-1" target="_blank">
+        <img src="https://github.com/user-attachments/assets/176ce5b7-0e10-4fc0-93db-204600b658d5" height="220px" style="border-radius: 12px; object-fit: cover;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Descripciones (En celdas separadas para que si una crece, la otra mantenga el nivel) -->
+    <td valign="top" style="padding: 10px;">
+      <p align="justify" style="line-height: 1.5; min-height: 130px;">
+        Plataforma educativa enfocada en la <strong>visualización de instrumentos de laboratorio de química</strong> y <strong>moléculas en 3D mediante Realidad Aumentada</strong>. Permite a los estudiantes explorar y comprender modelos en un entorno virtual, facilitando el aprendizaje práctico sin necesidad de un laboratorio físico.
+      </p>
+    </td>
+    <td valign="top" style="padding: 10px;">
+      <p align="justify" style="line-height: 1.5; min-height: 130px;">
+        Experiencia web interactiva enfocada en una <strong>interfaz futurista e inmersiva</strong> y <strong>entornos visuales dinámicos con animaciones avanzadas</strong>. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, fluida y visualmente impactante al entrar.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Botones (Al estar en su propia fila, SIEMPRE estarán parejos) -->
+    <td align="center">
       <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
       </a>
-    </div>
-  </div>
-</td>
-
-<td width="50%" valign="top">
-  <div style="background-color: #0d1117; padding: 20px; border-radius: 16px; margin: 10px; display: flex; flex-direction: column; height: 100%; justify-content: space-between;">
-    <div>
-      <h3 align="center">Arcoms-1</h3>
-      <div align="center">
-        <a href="https://github.com/EmirPolito/Arcoms-1" target="_blank">
-          <img src="https://github.com/user-attachments/assets/176ce5b7-0e10-4fc0-93db-204600b658d5" width="100%" alt="Arcoms-1 Preview" style="border-radius: 8px;">
-        </a>
-      </div>
-      <br>
-      <div style="min-height: 160px; display: flex; align-items: center;">
-        <p align="left" style="line-height: 1.5; text-align: justify; margin: 0;">
-          Experiencia web interactiva enfocada en una <strong>interfaz futurista e inmersiva</strong> y <strong>entornos visuales dinámicos con animaciones avanzadas</strong>. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, fluida y visualmente impactante al entrar.
-        </p>
-      </div>
-    </div>
-    <div align="center" style="margin-top: 20px;">
+    </td>
+    <td align="center">
       <a href="https://github.com/EmirPolito/Arcoms-1" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
       </a>
-    </div>
-  </div>
-</td>
-</tr>
-</table> 
+    </td>
+  </tr>
+</table>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <div style="background-color: #0d1117; padding: 20px; border-radius: 16px; margin: 10px; display: flex; flex-direction: column; height: 100%; justify-content: space-between;">
-    <div>
-      <h3 align="center">SIS-BIBLIO</h3>
-      <div align="center">
-        <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
-          <img src="https://github.com/user-attachments/assets/cab2a8f5-8c01-4460-b74e-7780d61b00df" width="100%" alt="SIS-BIBLIO" style="border-radius: 8px;" />
-        </a>
-      </div>
-      <br>
-      <div style="min-height: 160px; display: flex; align-items: center;">
-        <p align="left" style="line-height: 1.5; text-align: justify; margin: 0;">
-          Sistema de gestión bibliotecaria completamente funcional. Integra autenticación segura, control de roles, protección contra ataques web y un dashboard interactivo para la administración de libros, préstamos y usuarios en tiempo real, optimizando la organización y gestión del sistema.
-        </p>
-      </div>
-    </div>
-    <div align="center" style="margin-top: 20px;">
+<br>
+
+<!-- TABLA DE PROYECTOS 3 Y 4 -->
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%"><h3 align="center">SIS-BIBLIO</h3></td>
+    <td width="50%"><h3 align="center">RALQ-2</h3></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
+        <img src="https://github.com/user-attachments/assets/cab2a8f5-8c01-4460-b74e-7780d61b00df" height="220px" style="border-radius: 12px; object-fit: cover;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
+        <img src="https://github.com/user-attachments/assets/89ce32b6-9085-4331-8769-7562b3ca619c" height="220px" style="border-radius: 12px; object-fit: cover;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 10px;">
+      <p align="justify" style="line-height: 1.5; min-height: 130px;">
+        Sistema de gestión bibliotecaria completamente funcional. Integra autenticación segura, control de roles, protección contra ataques web y un dashboard interactivo para la administración de libros, préstamos y usuarios en tiempo real, optimizando la organización y gestión del sistema.
+      </p>
+    </td>
+    <td valign="top" style="padding: 10px;">
+      <p align="justify" style="line-height: 1.5; min-height: 130px;">
+        Segunda versión del proyecto, desarrollada con <strong>PHP</strong> y completamente finalizada. Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante Realidad Aumentada, mejorando la experiencia de aprendizaje interactivo.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
       </a>
-    </div>
-  </div>
-</td>
-
-<td width="50%" valign="top">
-  <div style="background-color: #0d1117; padding: 20px; border-radius: 16px; margin: 10px; display: flex; flex-direction: column; height: 100%; justify-content: space-between;">
-    <div>
-      <h3 align="center">RALQ-2</h3>
-      <div align="center">
-        <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
-          <img src="https://github.com/user-attachments/assets/89ce32b6-9085-4331-8769-7562b3ca619c" width="100%" alt="RALQ-2 Preview" style="border-radius: 8px;">
-        </a>
-      </div>
-      <br>
-      <div style="min-height: 160px; display: flex; align-items: center;">
-        <p align="left" style="line-height: 1.5; text-align: justify; margin: 0;">
-          Segunda versión del proyecto, desarrollada con <strong>PHP</strong> y completamente finalizada. 
-          Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante Realidad Aumentada, mejorando la experiencia de aprendizaje interactivo.
-        </p>
-      </div>
-    </div>
-    <div align="center" style="margin-top: 20px;">
+    </td>
+    <td align="center">
       <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
       </a>
-    </div>
-  </div>
-</td>
-</tr>
-</table> 
+    </td>
+  </tr>
+</table>
+
+<br>
 <br>
 
 <h2 align="center">Estadísticas</h2>
