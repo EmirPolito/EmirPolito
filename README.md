@@ -195,10 +195,10 @@
   <!-- Highlight de Constancia (Streak) - Muy visual y sin métricas vacías -->
   <img src="https://streak-stats.demolab.com?user=EmirPolito&theme=github_dark&hide_border=true&card_width=800" alt="Racha de EmirPolito" />
   <br>
+  <br>
+  
   <!-- Resumen que destaca lo que SÍ tienes datos (Contribuciones y Repos) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmirPolito&theme=github_dark&hide_border=true" width="700" alt="Resumen de EmirPolito" />
-  
-  <br/>
 
 </div>
 
