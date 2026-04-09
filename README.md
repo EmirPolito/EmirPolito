@@ -1,3 +1,7 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 <h1 align="center">
     Hola, soy <a href="https://github.com/EmirPolito">Emir Polito</a> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -27,7 +31,7 @@
 - 🚀 Desarrollo de proyectos reales orientados a portafolio, combinando diseño y lógica.
 - 📖 Aprendizaje constante en tecnologías modernas y sistemas digitales interactivos.
 <br>
-
+ 
 
 <h2 >Tecnologías conocidas</h2>
 <p align="left">
@@ -168,12 +172,26 @@
   </div>
 </td>
 </tr>
-
 </table> 
+<br>
 <br>
 
 
 
+<h2 align="center">Estadísticas del perfil</h2>
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmirPolito&theme=github_dark&hide_border=true" 
+  />
+</div>
+
+<br>
+<br>
+<br>
+
+
+
+
 <p align="center">
-  Ultima edición: 06/04/2026
+  Ultima edición: 08/04/2026
 </p>
