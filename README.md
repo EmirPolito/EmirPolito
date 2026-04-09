@@ -62,10 +62,15 @@
  <br>
 
  <div style="min-height: 120px;">
-          <p align="left" style="margin-bottom: 0px; line-height: 1.4;">
-            Plataforma educativa enfocada en la <strong>visualización de instrumentos de laboratorio de química</strong> y <strong>moléculas en 3D mediante Realidad Aumentada</strong>. 
-            Permite a los estudiantes explorar y comprender modelos en un entorno virtual, facilitando el aprendizaje práctico sin necesidad de un <span style="white-space: nowrap;">laboratorio físico</span>.
-   </p>
+             <p align="left" style="
+      flex-grow: 1;
+      margin-bottom: 10px;
+      line-height: 1.5;
+      text-align: justify;
+    ">
+      Plataforma educativa enfocada en la <strong>visualización de instrumentos de laboratorio de química</strong> y <strong>moléculas en 3D mediante Realidad Aumentada</strong>. 
+      Permite a los estudiantes explorar y comprender modelos en un entorno virtual, facilitando el aprendizaje práctico sin necesidad de un laboratorio físico.
+    </p>
  </div>
 
   </div>
