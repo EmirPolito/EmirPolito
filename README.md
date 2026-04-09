@@ -147,7 +147,7 @@
  <div align="center">
       <p>
         <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-FFE066?style=for-the-badge&logo=github&logoColor=black">
+   <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
         </a>
       </p>
     </div>
@@ -177,7 +177,7 @@
 <div align="center">
       <p>
       <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-FFE066?style=for-the-badge&logo=github&logoColor=black">
+   <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
       </a>
       </p>
     </div>
@@ -189,7 +189,7 @@
 <br>
 
 
-<h2 align="center">Estadísticas del perfil</h2>
+<h2 align="center">Estadísticas</h2>
 <div align="center">
      
   <!-- Highlight de Constancia (Streak) - Muy visual y sin métricas vacías -->
