@@ -49,28 +49,37 @@
 
 <td width="50%" valign="top">
   <div style="background-color: #0d1117; padding: 20px; border-radius: 16px; margin: 10px; display: flex; flex-direction: column; height: 100%; justify-content: space-between;">
-    <div>
-      <h3 align="center">RALQ-4</h3>
-      <div align="center">
-      <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
-        <img src="https://github.com/user-attachments/assets/3a812062-6e7c-4ab6-98b8-fd33d02eb491" width="100%" alt="RALQ-4 Preview" style="border-radius: 8px;">
-      </a>
-      <br>
-      <br>
-          
-<p align="left" style="margin-bottom: 0px;">
-  Plataforma educativa enfocada en la <strong>visualización de instrumentos de laboratorio de química</strong> y <strong>moléculas en 3D mediante Realidad Aumentada</strong>. 
-  Permite a los estudiantes explorar y comprender modelos en un entorno virtual, facilitando el aprendizaje práctico sin necesidad de un <span style="white-space: nowrap;">laboratorio físico</span>.
-</p>
-      </div>
-    </div>
     
-<div align="center">
-      <p>
-      <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">   </a>
-      </p>
-    </div>
+<div>
+      <h3 align="center">RALQ-4</h3>
+      
+ <div align="center">
+        <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
+          <img src="https://github.com/user-attachments/assets/3a812062-6e7c-4ab6-98b8-fd33d02eb491" width="100%" alt="RALQ-4 Preview" style="border-radius: 8px;">
+        </a>
+
+ <br>
+ <br>
+
+ <div style="min-height: 120px;">
+          <p align="left" style="margin-bottom: 0px; line-height: 1.4;">
+            Plataforma educativa enfocada en la <strong>visualización de instrumentos de laboratorio de química</strong> y <strong>moléculas en 3D mediante Realidad Aumentada</strong>. 
+            Permite a los estudiantes explorar y comprender modelos en un entorno virtual, facilitando el aprendizaje práctico sin necesidad de un <span style="white-space: nowrap;">laboratorio físico</span>.
+   </p>
+ </div>
+
+  </div>
+   </div>
+
+ <!-- 🔥 BOTÓN SIEMPRE ABAJO -->
+   <div align="center">
+   <p>
+ <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
+   <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+ </p>
+ </div>
+
   </div>
 </td>
 
