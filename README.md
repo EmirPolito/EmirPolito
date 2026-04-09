@@ -192,7 +192,7 @@
 <h2 align="center">Estadísticas del perfil</h2>
 <div align="center">
   <!-- Resumen que destaca lo que SÍ tienes datos (Contribuciones y Repos) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmirPolito&theme=github_dark&hide_border=true" width="850" alt="Resumen de EmirPolito" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmirPolito&theme=github_dark&hide_border=true" width="800" alt="Resumen de EmirPolito" />
   
   <br/>
   
