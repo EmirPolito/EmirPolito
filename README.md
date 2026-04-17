@@ -26,8 +26,8 @@
 
 - 🎓 Técnico en Tecnologías de la Información – área de desarrollo software.
 - 🤝 Experiencia en proyectos web dinámicos e interactivos con elementos 3D.
-- 🎨 Especializado en UI/UX limpio y funcional, priorizando la experiencia del usuario.
-- 🚀 Desarrollo de proyectos reales orientados a portafolio, combinando diseño y lógica.
+- 🎨 UI/UX limpio y funcional, priorizando la experiencia del usuario.
+- 🚀 Desarrollo de proyectos reales, combinando diseño y lógica.
 - 📖 Aprendizaje constante en tecnologías modernas y sistemas digitales interactivos.
 <br>
 
