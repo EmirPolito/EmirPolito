@@ -31,13 +31,18 @@
 - 📖 Aprendizaje constante en tecnologías modernas y sistemas digitales interactivos.
 <br>
 
+<div align=center>
 <h2>Tecnologías conocidas</h2>
-<p align="left">
+<div/>
+   
+<p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,react,nextjs,mysql,mongodb,git,github,npm,pnpm,nodejs,powershell,vscode,figma,blender,vercel,replit,discord,devto&perline=30&size=48" 
+    src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,react,nextjs,mysql,mongodb,git,github,npm,pnpm,nodejs,powershell,vscode,figma,blender,vercel,replit,discord,devto&perline=11&size=48" 
   />
 </p>
 <br>
+
+
 
 ## Algunos proyectos
 
