@@ -30,6 +30,7 @@
 - 🚀 Desarrollo de proyectos reales, combinando diseño y lógica.
 - 📖 Aprendizaje constante en tecnologías modernas y sistemas digitales interactivos.
 <br>
+<br>
 
 <div align=center>
 <h2>Tecnologías conocidas</h2>
