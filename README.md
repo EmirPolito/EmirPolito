@@ -10,11 +10,11 @@
 
 
 <div align="center">
-  <a href="mailto:emirpolitog@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
   <a href="https://www.linkedin.com/in/emir-polito-g/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:emirpolitog@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.instagram.com/emirppolito/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
