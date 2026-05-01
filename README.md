@@ -111,7 +111,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
-        <img src="https://github.com/user-attachments/assets/89ce32b6-9085-4331-8769-7562b3ca619c" height="220px" style="border-radius: 12px; object-fit: cover;">
+<img width="1600" height="739" alt="5614ed1c-f912-47fb-adf1-c2d6bc1c98ac" src="https://github.com/user-attachments/assets/fa93ccd9-5d17-4d97-9def-9b49a2cb83f0" />
       </a>
     </td>
   </tr>
