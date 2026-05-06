@@ -22,9 +22,10 @@
 </div>
 <br>
 
-## Sobre mí
-> Desarrollador de experiencias interactivas, enfocado en combinar diseño y funcionalidad de forma creativa. Con participación en eventos de innovación como Infomatrix y en espacios académicos universitarios, aplicando tecnología a problemas reales.
->
+<div aligh=left>
+   <h2>Sobre mi</h2>
+</div>
+
 - 🎓 Técnico en Tecnologías de la Información – área de desarrollo software.
 - 🤝 Experiencia en proyectos web dinámicos e interactivos con elementos 3D.
 - 🎨 UI/UX limpio y funcional, priorizando la experiencia del usuario.
