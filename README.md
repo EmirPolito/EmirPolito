@@ -30,7 +30,7 @@
 - 🤝 Experiencia en proyectos web dinámicos e interactivos con elementos 3D.
 - 🎨 UI/UX limpio y funcional, priorizando la experiencia del usuario.
 - 🚀 Desarrollo de proyectos reales, combinando diseño y lógica.
-- 📖 Aprendizaje constante en tecnologías modernas y sistemas digitales interactivos.
+- 📖 En aprendizaje constante con tecnologías modernas y sistemas digitales interactivos.
 <br>
 
 <div align=center>
