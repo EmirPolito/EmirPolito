@@ -5,20 +5,8 @@
     Soy <a href="https://github.com/EmirPolito">Emir Polito</a> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
+<div>Técnico en TI con sólida experiencia en el desarrollo frontend, control de calidad (QA) y la creación de experiencias web dinámicas, priorizando la experiencia del usuario.
 </div>
-
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/emir-polito/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:emirpolitog@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.instagram.com/emirppolito/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </div>
 <br>
 
