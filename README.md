@@ -17,10 +17,10 @@
    <h2>Sobre mi</h2>
 </div>
 
-- 🎓 Técnico en Tecnologías de la Información – área de desarrollo software.
-- 🤝 Experiencia en proyectos web dinámicos e interactivos con elementos 3D.
-- 🎨 UI/UX limpio y funcional, priorizando la experiencia del usuario.
-- 📂 Participación en proyectos académicos y desarrollo de soluciones digitales.
+- 🎓 Técnico en TI área de desarrollo software multiplataforma.
+- 🤝 Experiencia en proyectos web dinámicos con integración 3D.
+- 🎨 Diseño de interfaces modernas, funcionales y accesibles.
+- 📂 Participación en plataformas web educativas e interactivas.
 <br>
 
 <div align=center>
