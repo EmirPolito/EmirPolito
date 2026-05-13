@@ -7,7 +7,7 @@
 </h1>
 
 <div>
-  Técnico en Tecnologías de la Información con experiencia en el desarrollo frontend, control de calidad (QA) y la creación de plataformas web, priorizando la experiencia     del usuario.
+Desarrollo frontend, control de calidad (QA) y la creación de plataformas web, priorizando la experiencia     del usuario.
 </div>
 
 </div>
