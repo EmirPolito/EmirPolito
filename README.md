@@ -5,7 +5,7 @@
     Soy <a href="https://github.com/EmirPolito">Emir Polito</a> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-<div>Técnico en TI con sólida experiencia en el desarrollo frontend, control de calidad (QA) y la creación de experiencias web dinámicas, priorizando la experiencia del usuario.
+<div>Técnico en TI con experiencia en el desarrollo frontend, control de calidad (QA) y la creación de experiencias web dinámicas, priorizando la experiencia del usuario.
 </div>
 </div>
 <br>
