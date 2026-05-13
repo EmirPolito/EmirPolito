@@ -18,8 +18,8 @@
 </div>
 
 - 🎓 Técnico en TI área de desarrollo software multiplataforma.
-- 🤝 Experiencia en proyectos web dinámicos con integración 3D.
-- 🎨 Diseño de interfaces modernas, funcionales y accesibles.
+- 🤝 Experiencia en proyectos web dinámicos con modelos 3D.
+- 🎨 Creación de interfaces modernas, funcionales y accesibles.
 - 📂 Participación en plataformas web educativas e interactivas.
 <br>
 
