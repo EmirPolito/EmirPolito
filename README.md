@@ -27,7 +27,7 @@ Desarrollador frontend y QA Tester, priorizando la experiencia del usuario</div>
    
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,react,nextjs,mysql,mongodb,git,github,npm,pnpm,nodejs,powershell,vscode,figma,blender,vercel,replit,discord&perline=11&size=48" 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,mysql,mongodb,git,github,npm,pnpm,tailwind,figma,blender,discord,vercel&perline=9&size=48" 
   />
 </p>
 <br>
