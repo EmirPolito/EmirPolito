@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emir-polito-g/" target="_blank">
+  <a href="https://www.linkedin.com/in/emir-polito/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:emirpolitog@gmail.com">
