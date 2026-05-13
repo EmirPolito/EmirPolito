@@ -7,9 +7,7 @@
 </h1>
 
 <div>
-Desarrollo frontend, control de calidad (QA) y la creación de plataformas web, priorizando la experiencia     del usuario.
-</div>
-
+Desarrollador frontend y QA Tester, priorizando la experiencia del usuario</div>
 </div>
 <br>
 
