@@ -7,7 +7,7 @@
 </h1>
 
 <div>
-Desarrollador frontend y QA Tester, priorizando la experiencia del usuario.</div>
+ Desarrollador frontend y QA Tester, priorizando la experiencia del usuario.</div>
 </div>
 <br>
 
