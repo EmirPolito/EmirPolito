@@ -90,7 +90,7 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
    <td width="50%"><h3 align="center">RALQ</h3></td>
-   <td width="50%"><h3 align="center">SIS-BIBLIO</h3></td>
+   <td width="50%"><h3 align="center">SIS BIBLIO</h3></td>
   </tr>
   <tr>
           
