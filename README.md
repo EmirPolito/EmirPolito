@@ -40,7 +40,7 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <!-- Títulos -->
-    <td width="50%"><h3 align="center">RALQ-4</h3></td>
+    <td width="50%"><h3 align="center">RALQ-2</h3></td>
     <td width="50%"><h3 align="center">Arcoms-1</h3></td>
   </tr>
   <tr>
