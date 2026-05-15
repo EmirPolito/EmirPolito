@@ -90,7 +90,7 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%"><h3 align="center">SIS-BIBLIO</h3></td>
-    <td width="50%"><h3 align="center">RALQ-2</h3></td>
+    <td width="50%"><h3 align="center">RALQ</h3></td>
   </tr>
   <tr>
     <td align="center">
@@ -113,7 +113,7 @@
     </td>
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-        Segunda versión del proyecto, desarrollada con <strong>PHP</strong> y completamente finalizada. Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante Realidad Aumentada, mejorando la experiencia de aprendizaje interactivo.
+        Primera versión del proyecto, desarrollada con <strong>PHP</strong> y completamente finalizada. Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante Realidad Aumentada, mejorando la experiencia de aprendizaje interactivo.
       </p>
     </td>
   </tr>
