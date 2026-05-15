@@ -89,44 +89,49 @@
 <!-- TABLA DE PROYECTOS 3 Y 4 -->
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%"><h3 align="center">SIS-BIBLIO</h3></td>
-    <td width="50%"><h3 align="center">RALQ</h3></td>
+   <td width="50%"><h3 align="center">RALQ</h3></td>
+   <td width="50%"><h3 align="center">SIS-BIBLIO</h3></td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
-        <img src="https://github.com/user-attachments/assets/cab2a8f5-8c01-4460-b74e-7780d61b00df" height="220px" style="border-radius: 12px; object-fit: cover;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
-         <img height="733" alt="ca77b83d-dce5-4eaf-84b1-a10ce6254494" src="https://github.com/user-attachments/assets/1742d283-0649-4bb9-ac6f-02964eed7df8" />
-
- </a>
-    </td>
+          
+ <td align="center">
+   <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
+      <img height="733" alt="ca77b83d-dce5-4eaf-84b1-a10ce6254494" src="https://github.com/user-attachments/assets/1742d283-0649-4bb9-ac6f-02964eed7df8" />
+   </a>
+ </td>
+ 
+ <td align="center">
+   <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
+       <img src="https://github.com/user-attachments/assets/cab2a8f5-8c01-4460-b74e-7780d61b00df" height="220px" style="border-radius: 12px; object-fit: cover;">
+    </a>
+ </td>
   </tr>
+  
   <tr>
-    <td valign="top" style="padding: 10px;">
-      <p align="justify" style="line-height: 1.5; min-height: 130px;">
-        Sistema de gestión bibliotecaria completamente funcional. Integra autenticación segura, control de roles, protección contra ataques web y un dashboard interactivo para la administración de libros, préstamos y usuarios en tiempo real, optimizando la organización y gestión del sistema.
-      </p>
-    </td>
-    <td valign="top" style="padding: 10px;">
+ <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
         Primera versión del proyecto, desarrollada con <strong>PHP</strong> y completamente finalizada. Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante Realidad Aumentada, mejorando la experiencia de aprendizaje interactivo.
       </p>
-    </td>
+ </td>  
+     
+ <td valign="top" style="padding: 10px;">
+      <p align="justify" style="line-height: 1.5; min-height: 130px;">
+        Sistema de gestión bibliotecaria completamente funcional. Integra autenticación segura, control de roles, protección contra ataques web y un dashboard   interactivo para la administración de libros, préstamos y usuarios en tiempo real, optimizando la organización y gestión del sistema.
+      </p>
+ </td>
   </tr>
+  
   <tr>
-    <td align="center">
-      <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
+ <td align="center">
+   <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
+      <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
+   </a>
+ </td>
+
+ <td align="center">
+    <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
-        <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
-      </a>
+   </a>
     </td>
   </tr>
 </table>
