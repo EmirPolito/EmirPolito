@@ -41,7 +41,7 @@
   <tr>
     <!-- Títulos -->
     <td width="50%"><h3 align="center">RALQ 2</h3></td>
-    <td width="50%"><h3 align="center">Arcoms 1</h3></td>
+    <td width="50%"><h3 align="center">Arcoms One</h3></td>
   </tr>
   <tr>
     <!-- Imágenes (Forzamos la misma altura para que no empujen el texto) -->
