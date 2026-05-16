@@ -65,7 +65,7 @@
     </td>
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-        Experiencia web interactiva enfocada en una <strong>interfaz futurista e inmersiva</strong> y <strong>entornos visuales dinámicos con animaciones avanzadas</strong>. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, fluida y visualmente impactante al entrar.
+        Landing page interactiva enfocada en una <strong>interfaz futurista e inmersiva</strong> y <strong>entornos visuales dinámicos con animaciones interactivas</strong>. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, fluida y visualmente impactante al entrar.
       </p>
     </td>
   </tr>
