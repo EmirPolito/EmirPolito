@@ -52,7 +52,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/EmirPolito/Arcoms-1" target="_blank">     
-   <img width="1600" height="722" alt="7b9dd6e7-b30a-4244-89c8-cd95bbd0db47" src="https://github.com/user-attachments/assets/7d61bc5f-b650-4e5b-a9cd-c8c07f71375a"/>
+   <img height="722"alt="7b9dd6e7-b30a-4244-89c8-cd95bbd0db47" src="https://github.com/user-attachments/assets/7d61bc5f-b650-4e5b-a9cd-c8c07f71375a"/>
       </a>
     </td>
   </tr>
