@@ -1,39 +1,3 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-
-<h1 align="center">
-    Soy <a href="https://github.com/EmirPolito">Emir Polito</a> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-
-<div>
- Desarrollador frontend y QA Tester, priorizando la experiencia del usuario.</div>
-</div>
-<br>
-
-<div aligh=left>
-   <h2>Sobre mi</h2>
-</div>
-
-- 🎓 Técnico en TI área de desarrollo software multiplataforma.
-- 🤝 Experiencia en proyectos web dinámicos con modelos 3D.
-- 🎨 Creación de interfaces modernas, funcionales y accesibles.
-- 📂 Participación en plataformas web educativas e interactivas.
-<br>
-
-<div align=center>
-<h2>Tecnologías conocidas</h2>
-<div/>
-   
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,mysql,mongodb,git,github,npm,pnpm,tailwind,figma,blender,discord,vercel&perline=9&size=48" 
-  />
-</p>
-<br>
-
-
-
 ## Algunos proyectos
 
 <!-- TABLA DE PROYECTOS 1 Y 2 -->
