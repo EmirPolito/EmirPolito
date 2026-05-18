@@ -1,5 +1,8 @@
-## Algunos proyectos
-
+<div align=center>
+<h2>Algunos proyectos</h2>
+<div/>
+<br>
+  
 <!-- TABLA DE PROYECTOS 1 Y 2 -->
 <table width="100%" style="border-collapse: collapse;">
   <tr>
