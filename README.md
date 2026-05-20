@@ -26,12 +26,12 @@
     <!-- Descripciones (En celdas separadas para que si una crece, la otra mantenga el nivel) -->
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-Plataforma educativa enfocada en la enseñanza de la <strong>química</strong> a través de <strong>modelos 3D</strong>de instrumentos y moléculas. Su objetivo es facilitar un aprendizaje más <strong>visual, dinámico e interactivo</strong> para estudiantes que no tienen acceso a un laboratorio físico, permitiéndoles <strong> aprender</strong> de manera más práctica y accesible.
+Plataforma educativa enfocada en la enseñanza de la <strong>química</strong> a través de <strong>modelos 3D</strong> de instrumentos y moléculas. Su objetivo es facilitar un aprendizaje más <strong>visual, dinámico e interactivo</strong> para estudiantes que no tienen acceso a un laboratorio físico, permitiéndoles <strong> aprender</strong> de manera más práctica y accesible.
    </p>
     </td>
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-Landing page enfocada en una interfaz futurista y entornos visuales dinámicos con animaciones. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, moderna y visualmente agradable desde el primer momento, con una navegación intuitiva.  
+Landing page enfocada en una interfaz futurista y entornos visuales dinámicos con animaciones. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital, ofreciendo una experiencia atractiva, moderna y visualmente agradable desde el primer momento, con una navegación intuitiva.  
   </tr>
   <tr>
     <!-- Botones (Al estar en su propia fila, SIEMPRE estarán parejos) -->
