@@ -12,9 +12,9 @@
   <tr>
     <!-- Imágenes (Forzamos la misma altura para que no empujen el texto) -->
     <td align="center">
-      <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
-        <img src="https://github.com/user-attachments/assets/3a812062-6e7c-4ab6-98b8-fd33d02eb491" height="220px" style="border-radius: 12px; object-fit: cover;">
-      </a>
+      <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
+  <img height="733" alt="290057d3-6b5f-4143-82aa-ca93f483e529" src="https://github.com/user-attachments/assets/47b8116e-98ae-435f-b7f6-ab923d6760c7"/>
+    </a>
     </td>
     <td align="center">
       <a href="https://github.com/EmirPolito/Arcoms-1" target="_blank">     
