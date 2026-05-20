@@ -26,16 +26,12 @@
     <!-- Descripciones (En celdas separadas para que si una crece, la otra mantenga el nivel) -->
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-        Plataforma educativa enfocada en la enseñanza de la <strong>química</strong> a través de <strong>modelos 3D</strong>  interactivos de instrumentos y moléculas. Su objetivo es facilitar un aprendizaje más visual y dinámado, especialmente para estudiantes que no tienen acceso a un laboratorio físico.
-
-
+Plataforma educativa enfocada en la enseñanza de la <strong>química</strong> a través de <strong>modelos 3D</strong> interactivos de instrumentos y moléculas. Su objetivo es facilitar un aprendizaje más <strong>visual, dinámico e interactivo</strong> para estudiantes que no tienen acceso a un laboratorio físico, permitiéndoles <strong> aprender</strong> de manera más práctica y accesible.
    </p>
     </td>
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-        Landing page interactiva enfocada en una <strong>interfaz futurista e inmersiva</strong> y <strong>entornos visuales dinámicos con animaciones interactivas</strong>. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, fluida y visualmente impactante al entrar.
-      </p>
-    </td>
+Landing page enfocada en una interfaz futurista y entornos visuales dinámicos con animaciones fluidas. Permite al usuario explorar, navegar y descubrir contenido en un entorno digital envolvente, ofreciendo una experiencia atractiva, moderna y visualmente agradable desde el primer momento, con una navegación intuitiva.  
   </tr>
   <tr>
     <!-- Botones (Al estar en su propia fila, SIEMPRE estarán parejos) -->
@@ -78,13 +74,12 @@
   <tr>
  <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-        Primera versión del proyecto, desarrollada con <strong>PHP</strong> y completamente finalizada. Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante Realidad Aumentada, mejorando la experiencia de aprendizaje interactivo.
-      </p>
+Primera versión de la plataforma, desarrollada con <strong>PHP</strong> y completamente finalizada. Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante <strong>Realidad Aumentada</strong>, ofreciendo una experiencia de aprendizaje más visual, práctica y accesible para los estudiantes.      </p>
  </td>  
      
  <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-        Sistema de gestión bibliotecaria completamente funcional. Integra autenticación segura, control de roles, protección contra ataques web y un dashboard   interactivo para la administración de libros, préstamos y usuarios en tiempo real, optimizando la organización y gestión del sistema.
+Sistema de gestión bibliotecaria desarrollado para facilitar la administración de libros, préstamos y usuarios de manera organizada. Integra autenticación segura, control de roles y un dashboard dinámico que permite gestionar la información en tiempo real de forma práctica, sencilla y eficiente para el uso diario.
       </p>
  </td>
   </tr>
