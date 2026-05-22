@@ -1,5 +1,5 @@
 <div align=center>
-<h2>Algunos proyectos</h2>
+<h2>Proyectos</h2>
 <div/>
   
 <!-- TABLA DE PROYECTOS 1 Y 2 -->
