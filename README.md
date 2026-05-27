@@ -13,13 +13,13 @@
     <!-- Imágenes (Forzamos la misma altura para que no empujen el texto) -->
     <td align="center">
       <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
-  <img height="733" alt="290057d3-6b5f-4143-82aa-ca93f483e529" src="https://github.com/user-attachments/assets/47b8116e-98ae-435f-b7f6-ab923d6760c7"/>
+<img height="730" alt="0ae068be-43a2-4a94-8857-27dba07430f8" src="https://github.com/user-attachments/assets/ddf427a5-d7c1-4b60-85dd-de9941a7f73e" />
     </a>
     </td>
     <td align="center">
       <a href="https://github.com/EmirPolito/Arcoms-1" target="_blank">     
-   <img height="722"alt="7b9dd6e7-b30a-4244-89c8-cd95bbd0db47" src="https://github.com/user-attachments/assets/7d61bc5f-b650-4e5b-a9cd-c8c07f71375a"/>
-      </a>
+  <img height="730" alt="3387f374-5e4a-4b2c-ad7c-df0b109b9224" src="https://github.com/user-attachments/assets/2fa9eada-c0a6-4fee-85b6-592edaecbaaf"/>
+</a>
     </td>
   </tr>
   <tr>
