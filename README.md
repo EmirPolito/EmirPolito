@@ -102,8 +102,7 @@ Sistema de gestión bibliotecaria desarrollado para facilitar la administración
 
 <h2 align="center">Estadísticas</h2>
 <div align="center">
-<img 
-  src="https://streak-stats.demolab.com?user=EmirPolito&theme=github_dark&hide_border=true&card_width=850"width="90%"style="border-radius: 18px;border: 1px solid #2f2f2f;"/> 
+  <img src="https://streak-stats.demolab.com?user=EmirPolito&theme=github_dark&hide_border=true&card_width=800" alt="Racha de EmirPolito" />
   <br>
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmirPolito&theme=github_dark&hide_border=true" width="700" alt="Resumen de EmirPolito" />
