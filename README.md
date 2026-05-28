@@ -59,7 +59,7 @@ Landing page enfocada en una interfaz futurista y entornos visuales dinámicos c
   <tr>
           
  <td align="center">
-   <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
+   <a href="https://github.com/EmirPolito/RALQ" target="_blank">
       <img height="733" alt="ca77b83d-dce5-4eaf-84b1-a10ce6254494" src="https://github.com/user-attachments/assets/1742d283-0649-4bb9-ac6f-02964eed7df8" />
    </a>
  </td>
