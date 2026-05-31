@@ -26,7 +26,7 @@
     <!-- Descripciones (En celdas separadas para que si una crece, la otra mantenga el nivel) -->
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-Plataforma educativa enfocada en la enseñanza de la <strong>química</strong> a través de <strong>modelos 3D</strong> de instrumentos y moléculas. Su objetivo es facilitar un aprendizaje más <strong>visual, dinámico e interactivo</strong> para estudiantes que no tienen acceso a un laboratorio físico, permitiéndoles <strong> aprender</strong> de manera más práctica y accesible.
+Plataforma educativa enfocada en la enseñanza de la <strong>química</strong> a través de <strong>modelos 3D</strong> de instrumentos y moléculas. Su objetivo es facilitar un aprendizaje más <strong>visual, dinámico e interactivo</strong> para estudiantes que no tienen acceso a un laboratorio físico, permitiéndoles <strong> aprender</strong> de manera más fácil y accesible.
    </p>
     </td>
     <td valign="top" style="padding: 10px;">
