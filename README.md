@@ -74,7 +74,7 @@ Landing page enfocada en una interfaz futurista y entornos visuales dinámicos c
   <tr>
  <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-Primera versión de la plataforma, desarrollada con <strong>PHP</strong> y completamente finalizada. Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante <strong>Realidad Aumentada</strong>, ofreciendo una experiencia de aprendizaje más visual, práctica y accesible para los estudiantes.      </p>
+Primera versión de la plataforma, desarrollada con <strong>PHP</strong> y completamente finalizada. Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante <strong>Realidad Aumentada</strong>, ofreciendo una experiencia de aprendizaje más visual, fácil y accesible para los estudiantes.      </p>
  </td>  
      
  <td valign="top" style="padding: 10px;">
