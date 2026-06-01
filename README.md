@@ -54,7 +54,7 @@ Landing page enfocada en una interfaz futurista y entornos visuales dinámicos c
 <table width="100%" style="border-collapse: collapse;">
   <tr>
    <td width="50%"><h3 align="center">RALQ</h3></td>
-   <td width="50%"><h3 align="center">SIS BIBLIO</h3></td>
+   <td width="50%"><h3 align="center">HOTEL GUEVARINI</h3></td>
   </tr>
   <tr>
           
@@ -79,7 +79,8 @@ Primera versión de la plataforma, desarrollada con <strong>PHP</strong> y compl
      
  <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-Sistema de administración hotelera desarrollado para optimizar la gestión de habitaciones, reservaciones y usuarios de manera organizada. Integra autenticación, control de roles y un dashboard que permite administrar la información en tiempo real de forma práctica, sencilla y eficiente para la operación diaria.      </p>
+Sistema de administración hotelera desarrollado para optimizar la gestión de habitaciones, reservaciones y usuarios de manera organizada. Integra autenticación, control de roles y un dashboard que permite administrar la información en tiempo real de forma práctica y sencilla para la operación diaria. 
+  </p>
  </td>
   </tr>
   
