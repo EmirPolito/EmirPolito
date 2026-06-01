@@ -79,7 +79,7 @@ Primera versión de la plataforma, desarrollada con <strong>PHP</strong> y compl
      
  <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-Sistema de administración hotelera desarrollado para optimizar la gestión de habitaciones, reservaciones y usuarios de manera organizada. Integra autenticación, control de roles y un dashboard que permite administrar la información en tiempo real de forma práctica y sencilla para la operación diaria. 
+Sistema de administración hotelera desarrollado para optimizar la gestión de habitaciones, reservaciones y usuarios de manera organizada. Integra autenticación, control de roles y un dashboard que permite administrar la información en tiempo real de forma rápida  y sencilla para la operación diaria. 
   </p>
  </td>
   </tr>
