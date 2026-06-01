@@ -65,9 +65,9 @@ Landing page enfocada en una interfaz futurista y entornos visuales dinámicos c
  </td>
  
  <td align="center">
-   <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
-       <img src="https://github.com/user-attachments/assets/cab2a8f5-8c01-4460-b74e-7780d61b00df" height="220px" style="border-radius: 12px; object-fit: cover;">
-    </a>
+   <a href="https:https://github.com/EmirPolito/CRUD-HOTEL-GUEVARINI" target="_blank">
+   <img height="732" alt="13258a5e-d22b-41f9-927f-db3dba9432a3" src="https://github.com/user-attachments/assets/ec8546d7-f303-4390-90b4-b9f501f16f2e" />
+</a>
  </td>
   </tr>
   
@@ -79,8 +79,7 @@ Primera versión de la plataforma, desarrollada con <strong>PHP</strong> y compl
      
  <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-Sistema de gestión bibliotecaria desarrollado para facilitar la administración de libros, préstamos y usuarios de manera organizada. Integra autenticación, control de roles y un dashboard que permite gestionar la información en tiempo real de forma práctica, sencilla y eficiente para el uso diario.
-      </p>
+Sistema de administración hotelera desarrollado para optimizar la gestión de habitaciones, reservaciones y usuarios de manera organizada. Integra autenticación, control de roles y un dashboard que permite administrar la información en tiempo real de forma práctica, sencilla y eficiente para la operación diaria.      </p>
  </td>
   </tr>
   
@@ -92,7 +91,7 @@ Sistema de gestión bibliotecaria desarrollado para facilitar la administración
  </td>
 
  <td align="center">
-    <a href="https://github.com/EmirPolito/CRUD-SIS-BIBLIO-Publico" target="_blank">
+    <a href="https://github.com/EmirPolito/CRUD-HOTEL-GUEVARINI" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
    </a>
     </td>
