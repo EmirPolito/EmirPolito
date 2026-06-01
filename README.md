@@ -2,18 +2,15 @@
 <h2>Proyectos</h2>
 </div>
   
-<!-- TABLA DE PROYECTOS 1 Y 2 -->
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <!-- Títulos -->
-    <td width="50%"><h3 align="center">RALQ 2</h3></td>
+    <td width="50%"><h3 align="center">RALQ</h3></td>
     <td width="50%"><h3 align="center">HOTEL GUEVARINI</h3></td>
   </tr>
   <tr>
-    <!-- Imágenes (Forzamos la misma altura para que no empujen el texto) -->
     <td align="center">
-      <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
-        <img height="730" alt="0ae068be-43a2-4a94-8857-27dba07430f8" src="https://github.com/user-attachments/assets/ddf427a5-d7c1-4b60-85dd-de9941a7f73e" />
+      <a href="https://github.com/EmirPolito/RALQ" target="_blank">
+        <img height="733" alt="ca77b83d-dce5-4eaf-84b1-a10ce6254494" src="https://github.com/user-attachments/assets/1742d283-0649-4bb9-ac6f-02964eed7df8" />
       </a>
     </td>
     <td align="center">
@@ -23,10 +20,9 @@
     </td>
   </tr>
   <tr>
-    <!-- Descripciones (En celdas separadas para que si una crece, la otra mantenga el nivel) -->
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-        Plataforma educativa enfocada en la enseñanza de la <strong>química</strong> a través de <strong>modelos 3D</strong> de instrumentos y moléculas. Su objetivo es facilitar un aprendizaje más <strong>visual, dinámico e interactivo</strong> para estudiantes que no tienen acceso a un laboratorio físico, permitiéndoles <strong> aprender</strong> de manera más fácil y accesible.
+        Primera versión de la plataforma, desarrollada con <strong>PHP</strong> y completamente finalizada. Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante <strong>Realidad Aumentada</strong>, ofreciendo una experiencia de aprendizaje más visual, fácil y accesible para los estudiantes.
       </p>
     </td>
     <td valign="top" style="padding: 10px;">
@@ -36,9 +32,8 @@
     </td>
   </tr>
   <tr>
-    <!-- Botones (Al estar en su propia fila, SIEMPRE estarán parejos) -->
     <td align="center">
-      <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
+      <a href="https://github.com/EmirPolito/RALQ" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </td>
@@ -52,16 +47,15 @@
 
 <br>
 
-<!-- TABLA DE PROYECTOS 3 Y 4 -->
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%"><h3 align="center">RALQ</h3></td>
+    <td width="50%"><h3 align="center">RALQ 2</h3></td>
     <td width="50%"><h3 align="center">Arcoms One</h3></td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/EmirPolito/RALQ" target="_blank">
-        <img height="733" alt="ca77b83d-dce5-4eaf-84b1-a10ce6254494" src="https://github.com/user-attachments/assets/1742d283-0649-4bb9-ac6f-02964eed7df8" />
+      <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
+        <img height="730" alt="0ae068be-43a2-4a94-8857-27dba07430f8" src="https://github.com/user-attachments/assets/ddf427a5-d7c1-4b60-85dd-de9941a7f73e" />
       </a>
     </td>
     <td align="center">
@@ -73,7 +67,7 @@
   <tr>
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-        Primera versión de la plataforma, desarrollada con <strong>PHP</strong> y completamente finalizada. Enfocada en la visualización de instrumentos de laboratorio y estructuras moleculares en 3D mediante <strong>Realidad Aumentada</strong>, ofreciendo una experiencia de aprendizaje más visual, fácil y accesible para los estudiantes.
+        Plataforma educativa enfocada en la enseñanza de la <strong>química</strong> a través de <strong>modelos 3D</strong> de instrumentos y moléculas. Su objetivo es facilitar un aprendizaje más <strong>visual, dynamic e interactivo</strong> para estudiantes que no tienen acceso a un laboratorio físico, permitiéndoles <strong> aprender</strong> de manera más fácil y accesible.
       </p>
     </td>  
     <td valign="top" style="padding: 10px;">
@@ -84,7 +78,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/EmirPolito/RALQ" target="_blank">
+      <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </td>
