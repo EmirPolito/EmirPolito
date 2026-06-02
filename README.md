@@ -50,7 +50,7 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%"><h3 align="center">RALQ 2</h3></td>
-    <td width="50%"><h3 align="center">ArcomsOne</h3></td>
+    <td width="50%"><h3 align="center">Arcoms One</h3></td>
   </tr>
   <tr>
     <td align="center">
