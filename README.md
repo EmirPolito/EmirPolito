@@ -1,5 +1,5 @@
 <div align=center>
-<h2>Proyectos</h2>
+<h2>Proyecto</h2>
 </div>
   
 <table width="100%" style="border-collapse: collapse;">
