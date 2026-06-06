@@ -4,7 +4,7 @@
   
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%"><h3 align="center">RALQ</h3></td>
+    <td width="50%"><h3 align="center">RALQ Legacy</h3></td>
     <td width="50%"><h3 align="center">HOTEL GUEVARINI</h3></td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%"><h3 align="center">RALQ 2</h3></td>
+    <td width="50%"><h3 align="center">RALQ</h3></td>
     <td width="50%"><h3 align="center">Arcoms One</h3></td>
   </tr>
   <tr>
