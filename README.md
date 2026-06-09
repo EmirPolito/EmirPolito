@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/EmirPolito/RALQ-2" target="_blank">
+      <a href="" target="_blank">
         <img height="730" alt="0ae068be-43a2-4a94-8857-27dba07430f8" src="https://github.com/user-attachments/assets/ddf427a5-d7c1-4b60-85dd-de9941a7f73e" />
       </a>
     </td>
@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/EmirPolito/RALQ-4-Next.js" target="_blank">
+      <a href="" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </td>
