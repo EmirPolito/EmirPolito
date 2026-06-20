@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/EmirPolito" target="_blank">
+      <a href="https://ralq-2.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </td>
