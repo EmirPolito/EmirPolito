@@ -73,7 +73,7 @@
     </td>  
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 130px;">
-        Landing page enfocada en una interfaz futurista y entornos visuales dinámicos con animaciones. Permite al usuario explorar, navegar y descubrir contenido, ofreciendo una experiencia atractiva, moderna y visualmente agradable al entrar por primera vez, con una navegación intuitiva.  
+        Landing page futurista y entornos visuales dinámicos con animaciones. Permite al usuario explorar, navegar y descubrir contenido, ofreciendo una experiencia atractiva, moderna y visualmente agradable al entrar por primera vez, con una navegación intuitiva.  
       </p>
     </td>
   </tr>
