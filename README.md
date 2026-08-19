@@ -5,7 +5,7 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%"><h3 align="center">RALQ</h3></td>
-    <td width="50%"><h3 align="center">Hotel GUEVARINI</h3></td>
+    <td width="50%"><h3 align="center">HOTEL GUEVARINI</h3></td>
   </tr>
   <tr>
     <td align="center">
