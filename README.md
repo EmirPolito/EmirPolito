@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,git,github,pnpm,tailwind,figma,vercel&perline=12&size=40" 
+    src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,git,github,pnpm,tailwind,figma,vercel&perline=12&size=48" 
   />
 </p>
 <br>
