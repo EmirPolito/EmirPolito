@@ -92,15 +92,6 @@
 
 <br>
 
-<h2 align="center">Estadísticas</h2>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EmirPolito&theme=github_dark&hide_border=true&card_width=800" style="border-radius: 8px;" alt="Racha de EmirPolito" />
-  <br>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmirPolito&theme=github_dark&hide_border=true" width="700" style="border-radius: 8px;" alt="Resumen de EmirPolito" />
-</div>
-<br>
-
 
 
 <h2 align="center">Estadísticas</h2>
