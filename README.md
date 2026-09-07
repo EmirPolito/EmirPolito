@@ -79,12 +79,12 @@
   <tr>
     <td align="center">
       <a href="https://ralq-2.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/C%C3%93DIGO-66FF66?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/VER_-66FF66?style=for-the-badge&logo=vercel&logoColor=black">
       </a>
     </td>
     <td align="center">
       <a href="https://eci-tech.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/VER_SITIO-66FF66?style=for-the-badge&logo=vercel&logoColor=black">
+        <img src="https://img.shields.io/badge/VER_-66FF66?style=for-the-badge&logo=vercel&logoColor=black">
       </a>
     </td>
   </tr>
