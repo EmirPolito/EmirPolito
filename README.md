@@ -1,6 +1,10 @@
+<div align="center">
+<h2>Tecnologías</h2>
+</div>
+
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,git,github,pnpm,tailwind,figma,vercel&perline=12&size=48" 
+    src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,git,github,pnpm,tailwind,figma,vercel&perline=6&size=48" 
   />
 </p>
 <br>
