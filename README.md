@@ -33,7 +33,7 @@
   <tr>
     <td valign="top" style="padding: 10px;">
       <p align="justify" style="line-height: 1.5; min-height: 70px; font-size: 14px;">
-        Primera versión desarrollada con <strong>PHP</strong>. Enfocada en la visualización 3D de instrumentos de laboratorio y moléculas mediante <strong>Realidad Aumentada</strong> para facilitar el aprendizaje estudiantil.
+        Primera versión de RALQ. Enfocada en la visualización 3D de instrumentos de laboratorio y moléculas mediante <strong>Realidad Aumentada</strong> para facilitar el aprendizaje estudiantil.
       </p>
     </td>
     <td valign="top" style="padding: 10px;">
